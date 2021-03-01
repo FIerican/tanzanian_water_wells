@@ -17,3 +17,7 @@ This README.md will be the source of information for navigating through the repo
 * `testing_values.csv`: the independent variables that need predictions
 * `training_labels.csv`: the dependent variable (status_group) for each of the rows in Training set values
 * `training_values.csv`: the independent variables for the training set
+
+## Accuracy Score
+![DrivenData Accuracy](drivendatascore.png "DrivenData Accuracy Score")
+
